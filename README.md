@@ -1,3 +1,3 @@
 # hello-world
-just an initial project
+just an initial project.
 learning git practically!
